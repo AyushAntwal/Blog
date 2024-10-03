@@ -5,7 +5,27 @@ description: How to get started with Markdoc
 
 ## About Me
 
-I am a passionate writer and blogger who loves to share knowledge and insights with others. With a background in software engineering, I have a deep understanding of technology and its impact on our lives. Through my blog, I aim to provide valuable content that informs, inspires, and entertains.
+## Ayush Antiwal
+
+### Full Stack Developer & MCA Student
+
+I am currently working as a **Frontend Developer** specializing in **Angular**, while also pursuing a **Master of Computer Applications (MCA)** at **Graphic Era University**. As a **Full Stack Developer**, I am passionate about creating **responsive** and **accessible** web experiences with expertise in both front-end and back-end development. I love combining my technical skills with a keen eye for design to build innovative and user-friendly web applications.
+
+### Current Projects
+- **Clothing Selling Website**: I'm working on a web platform to sell clothing for various brands. This project allows me to experiment with e-commerce functionality, front-end design, and back-end integration.
+  
+- **Naïve Bayes Classifier**: As part of a lab experiment, I implemented a Naïve Bayes Classifier to classify the Iris Flower dataset, strengthening my machine learning skills.
+
+### Skills
+- **Frontend Development**: HTML, CSS, JavaScript, Angular, React, Bootstrap
+- **Backend Development**: Node.js, Express, MongoDB
+- **Machine Learning**: Naïve Bayes Classifier, Python
+- **Version Control**: Git, GitHub
+
+### Goals
+I'm constantly striving to enhance my skills and knowledge. Currently, I'm focusing on:
+- Learning **English grammar** to improve my communication skills.
+- Expanding my expertise in **full-stack development** and exploring more advanced frameworks and tools.
 
 ## Social Links
 
