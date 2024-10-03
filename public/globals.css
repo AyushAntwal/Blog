@@ -16,6 +16,13 @@ body {
   color: rgba(60, 66, 87, 1);
   margin: 0;
 }
+.material-symbols-outlined {
+  font-variation-settings:
+  'FILL' 1,
+  'wght' 400,
+  'GRAD' 0,
+  'opsz' 24
+}
 
 p {
   line-height: 1.5em;
